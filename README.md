@@ -7,3 +7,4 @@ It may not seem it, but this project has a lot to it, despite being very small. 
 It just is. *Trust me*. __It's fabulous__
 
 - Master build status: [![Build Status](https://travis-ci.org/dodo721/sem.svg?branch=master)](https://travis-ci.org/dodo721/sem)
+- Develop build status: [![Build Status](https://travis-ci.org/dodo721/sem.svg?branch=develop)](https://travis-ci.org/dodo721/sem)
